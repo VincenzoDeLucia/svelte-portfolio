@@ -1,1 +1,1 @@
-Vincenzo De Lucia's portfolio website, built using Svelte.
+A portfolio website to share my story and my skills.

@@ -4,6 +4,7 @@
 	import Nav from './Nav.svelte';
 	import AboutMe from './AboutMe.svelte';
 	import MyWork from './MyWork.svelte';
+	import Footer from './Footer.svelte';
 </script>
 
 <main>
@@ -22,7 +23,8 @@
 	<MyServices/>
 	<AboutMe/>
 	<MyWork/>
-
+	<Footer/>
+	
 </main>
 
 <style>

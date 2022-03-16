@@ -4,7 +4,7 @@
 
     <div class="portfolio">
         <a href="#" class="portfolio__item">
-            <img src="" alt="">
+            <img src="" alt="" class="portfolio__img">
         </a>
     </div>
 </section>

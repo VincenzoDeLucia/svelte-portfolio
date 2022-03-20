@@ -36,6 +36,9 @@
 }
 
 /* Global styles */
+html {
+  scroll-behavior: smooth;
+}
 
 html,
 body {
@@ -108,11 +111,9 @@ h3 {
 .section__subtitle {
   margin: 0;
   font-size: var(--font-size-h3);
-  background-color: var(--color-accent);
   font-family: var(--font-family-secondary);
   margin-bottom: 1em;
   padding: 0.25em 1em;
-  text-align: left;
 }
 
 @media (min-width: 800px) {

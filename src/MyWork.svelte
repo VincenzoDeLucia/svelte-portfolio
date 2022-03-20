@@ -1,7 +1,7 @@
 <section class="my-work" id="work">
   <h2 class="section__title">My work</h2>
   <p class="section__subtitle section__subtitle--work">
-    A selecttion of my works
+    A selection of my works
   </p>
 
   <div class="portfolio">
@@ -18,8 +18,8 @@
     text-align: center;
   }
 
-  .section__subtitle--work {
-    color: var(--clr-accent);
+  .section__subtitle.section__subtitle--work {
+    color: var(--color-accent);
     font-weight: var(--fw-bold);
     margin-bottom: 1em;
   }

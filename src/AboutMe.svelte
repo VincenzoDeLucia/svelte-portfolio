@@ -27,6 +27,10 @@
     margin: 0 auto;
   }
 
+  .section__subtitle--about {
+    background-color: var(--color-accent);
+  }
+
   .about-me__img {
     box-shadow: var(--box-shadow);
   }

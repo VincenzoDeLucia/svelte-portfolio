@@ -26,6 +26,10 @@
     font-weight: var(--font-weight-bold);
   }
 
+  .section__subtitle--intro {
+    background-color: var(--color-accent);
+  }
+
   @media (min-width: 600px) {
     .intro {
       display: grid;
